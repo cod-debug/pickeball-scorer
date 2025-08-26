@@ -1,0 +1,260 @@
+{
+  "intercontinental": {
+    "name": "InterContinental",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "Fire Life & Safety training and Fire & Evacuation training.",
+      "timeframe": "1st day",
+      "notes": "Hotel-led training",
+      "timeframeSorting": 1,
+      "isPriority": "",
+      "link": "",
+      "course-id": "Hotel-led training"
+    },
+    {
+      "title": "Training on health & safety, security and emergency procedures.",
+      "timeframe": "1st day",
+      "notes": "Hotel-led training",
+      "timeframeSorting": 1,
+      "isPriority": "",
+      "link": "",
+      "course-id": "Hotel-led training"
+    },
+    {
+      "title": "Global Sales Induction",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D53749%26UserMode%3D0",
+      "course-id": "IHG7573378-ZH"
+    },
+    {
+      "title": "Getting Started with MeetingBroker",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D62%26UserMode%3D0",
+      "course-id": "IHG0056663"
+    },
+    {
+      "title": "IHG General Fire Training (Corporate, Owned & Managed Hotels)",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15095%26UserMode%3D0",
+      "course-id": "IHG0061583-ZH"
+    },
+    {
+      "title": "IHG General Fire Training (Franchise)",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D14947%26UserMode%3D0",
+      "course-id": "IHG0061585-ZH"
+    },
+    {
+      "title": "Tele Marketing",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D19679%26UserMode%3D0",
+      "course-id": "IHG0061506-ZH"
+    },
+    {
+      "title": "Sales Basic Training / 销售基础培训",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D53081%26UserMode%3D0",
+      "course-id": "IHG059328-ZH"
+    },
+    {
+      "title": "IHG Business Rewards",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D6202%26UserMode%3D0",
+      "course-id": "IHG0052543-ZH"
+    },
+    {
+      "title": "Commercial Development",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D19594%26UserMode%3D0",
+      "course-id": "IHG0055063-ZH"
+    },
+    {
+      "title": "Meetings & Events Ways of Working",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D6267%26UserMode%3D0",
+      "course-id": "IHG0054384-ZH"
+    },
+    {
+      "title": "Driving Revenue through Distribution Channels and Loyalty",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15687%26UserMode%3D0",
+      "course-id": "IHG054024-ZH"
+    },
+    {
+      "title": "Getting to Know IHG Concerto",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D52090%26UserMode%3D0",
+      "course-id": "IHG0049491"
+    },
+    {
+      "title": "Craft Training Certificate",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning, supervisor above required",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D19511%26UserMode%3D0",
+      "course-id": "IHG0051764-ZH"
+    },
+    {
+      "title": "Group Training Certificate",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning, manager above required",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D4343%26UserMode%3D0",
+      "course-id": "IHG0051763-ZH"
+    },
+    {
+      "title": "Luxury Fundamentals",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning.",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://ihg.sumtotal.ccedge.cn/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D14987%26UserMode%3D0",
+      "course-id": "IHG0063363-ZH"
+    },
+    {
+      "title": "Inspire Incredible Service Training",
+      "timeframe": "within 30 days",
+      "notes": "Hotel-led in-person training",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D799914%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dinspire%25252520incredible%25252520service%25252520training%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG2976398"
+    },
+    {
+      "title": "Welcome to IHG",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning, Hotel-led training",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D1041850%26UserMode%3D0",
+      "course-id": "IHG2743534-ZH"
+    },
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning, Hotel-led training",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15730%26UserMode%3D0",
+      "course-id": "IHG051263-ZH"
+    },
+    {
+      "title": "IHG Problem Handling",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning, Hotel-led training",
+      "timeframeSorting": 2,
+      "isPriority": "Y",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D21641%26UserMode%3D0",
+      "course-id": "IHG056045-ZH"
+    },
+    {
+      "title": "Introduction to Information Security",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning, Hotel-led training",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15004%26UserMode%3D0",
+      "course-id": "IHG0047625-ZH"
+    },
+    {
+      "title": "Handling Card Data Securely with PCI DSS Training",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning, Hotel-led training",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D612752%26UserMode%3D0",
+      "course-id": "IHG3569155-ZH"
+    },
+    {
+      "title": "IHG Code of Conduct (Hotel)",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning, all Managed hotel colleagues and GM of franchise-plus hotel",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D16277%26UserMode%3D0",
+      "course-id": "IHG0066245R-ZH"
+    },
+    {
+      "title": "Handling Information Responsibly",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D16285%26UserMode%3D0",
+      "course-id": "IHG0066263R-ZH"
+    },
+    {
+      "title": "IHG Anti-Harassment in Workplace",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D53220%26UserMode%3D0",
+      "course-id": "IHG1817814-ZH"
+    },
+    {
+      "title": "Loyalty at IHG Luxury & Lifestyle Hotels",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D873798%26UserMode%3D0",
+      "course-id": "IHG1344838-ZH"
+    },
+    {
+      "title": "Administering Loyalty",
+      "timeframe": "within 90 days",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 4,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D621576%26UserMode%3D0",
+      "course-id": "IHG7507483-ZH"
+    },
+    {
+      "title": "Expedited Selling Skill",
+      "timeframe": "within 90 days",
+      "notes": "Self-paced Online Learning",
+      "timeframeSorting": 4,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D3513%26UserMode%3D0",
+      "course-id": "IHG0063043-ZH"
+    }
+  ]
+}

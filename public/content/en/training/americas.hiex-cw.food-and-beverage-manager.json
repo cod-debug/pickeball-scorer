@@ -1,0 +1,44 @@
+{
+  "hiex-cw": {
+    "name": "Holiday Inn Express - CandleWood Suites",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "Leading and Sustaining your Service Culture",
+      "timeframe": "within 60 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D564%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dleading%25252520and%25252520sustaining%25252520your%25252520service%25252520culture%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0056403"
+    },
+    {
+      "title": "Holiday Inn Express Brand Service Training",
+      "timeframe": "within 30 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D366737%26UserMode%3D0",
+      "course-id": "IHG4548388"
+    },
+    {
+      "title": "The Express Start Breakfast Bar Experience - US & Canada",
+      "timeframe": "within 30 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10712%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dthe%25252520express%25252520start%25252520breakfast%25252520bar%25252520experience%25252520-%25252520us%25252520%25252526%25252520canada%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG052206"
+    },
+    {
+      "title": "The Express Start Breakfast Bar Experience - US & Canada",
+      "timeframe": "within 90 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10712%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dthe%25252520express%25252520start%25252520breakfast%25252520bar%25252520experience%25252520-%25252520us%25252520%25252526%25252520canada%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG052206"
+    }
+  ]
+}

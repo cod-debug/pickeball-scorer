@@ -1,0 +1,80 @@
+{
+  "ruby": {
+    "name": "Ruby",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "Welcome to IHG",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "",
+      "course-id": "IHG2743534"
+    },
+    {
+      "title": "Value of Loyalty",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (20 Minutes).",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "",
+      "course-id": "IHG4232839"
+    },
+    {
+      "title": "Program Overview",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (20 Minutes).",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "",
+      "course-id": "IHG9753968"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Cleaning Program for Non-Housekeeping colleagues",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "",
+      "course-id": "IHG1227263"
+    },
+    {
+      "title": "IHG Problem Handling",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "Introduction to Information Security",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour).",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "",
+      "course-id": "IHG0047625"
+    },
+    {
+      "title": "Handling Card Data Securely with PCI DSS Training",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (30 Minutes).",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "",
+      "course-id": "IHG3569155"
+    },
+    {
+      "title": "Preventing Human Trafficking",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "",
+      "course-id": "IHG0057043"
+    }
+  ]
+}

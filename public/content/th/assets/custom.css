@@ -1,0 +1,13 @@
+*,
+.text-wide  {
+    font-family: 'Cordia New', sans-serif!important;
+    font-size: 104%;
+}
+
+.text-\[12px\] {
+    font-size: 16px!important;
+}
+
+.text-6xl {
+    font-size: 4rem;
+}

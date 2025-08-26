@@ -1,0 +1,117 @@
+﻿{
+    "name": "New Hotel Opening Dashboard",
+    "version": "0.1",
+    "regions": [
+        "americas",
+        "emeaa"
+    ],
+    "localization-enabled": true,
+    "localization-settings": {
+        "enabled": true,
+        "default": {
+            "name": "English"
+        },
+        "available-languages": {
+            "ar": {
+                "name": "العربية",
+                "rtl": true
+            },
+            "de": {
+                "name": "Deutsch"
+            },
+            "en": {
+                "name": "English"
+            },
+            "es-la": {
+                "name": "Español Latinamericano"
+            },
+            "fr": {
+                "name": "Français"
+            },
+            "id": {
+                "name": "Indonesia"
+            },
+            "it": {
+                "name": "Italiano"
+            },
+            "ja": {
+                "name": "日本語"
+            },
+            "ko": {
+                "name": "한국어"
+            },
+            "pl": {
+                "name": "Polski"
+            },
+            "pt-br": {
+                "name": "Português (Brasil)"
+            },
+            "th": {
+                "name": "ไทย"
+            },
+            "tr": {
+                "name": "Türkçe"
+            },
+            "ru": {
+                "name": "Россия"
+            },
+            "vi": {
+                "name": "Tiếng Việt"
+            },
+            "zh-cn": {
+                "name": "简体中文"
+            }
+        },
+        "languages": {
+            "ar": {
+                "name": "العربية",
+                "rtl": true
+            },
+            "de": {
+                "name": "Deutsch"
+            },
+            "en": {
+                "name": "English"
+            },
+            "es-la": {
+                "name": "Español Latinamericano"
+            },
+            "fr": {
+                "name": "Français"
+            },
+            "id": {
+                "name": "Indonesia"
+            },
+            "it": {
+                "name": "Italiano"
+            },
+            "ja": {
+                "name": "日本語"
+            },
+            "ko": {
+                "name": "한국어"
+            },
+            "pl": {
+                "name": "Polski"
+            },
+            "pt-br": {
+                "name": "Português(Brasil)"
+            },
+            "th": {
+                "name": "ไทย"
+            },
+            "tr": {
+                "name": "Türkçe"
+            },
+            "ru": {
+                "name": "Русский"
+            },
+            "vi": {
+                "name": "Tiếng Việt"
+            },
+            "zh-cn": {
+                "name": "简体中文"
+            }
+        }
+    }
+}

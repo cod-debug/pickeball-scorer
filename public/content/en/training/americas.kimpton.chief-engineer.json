@@ -1,0 +1,161 @@
+{
+  "kimpton": {
+    "name": "Kimpton",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "Health & Safety, Security & Emergency Procedures",
+      "timeframe": "1st day",
+      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": 1,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D601724%26UserMode%3D0",
+      "course-id": "IHG9191264-OJT"
+    },
+    {
+      "title": "First Aid",
+      "timeframe": "within 30 days",
+      "notes": "Certified through a 3rd Party",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D601671%26UserMode%3D0",
+      "course-id": "IHG1885862-OJT"
+    },
+    {
+      "title": "Housekeeping Safety Device Training",
+      "timeframe": "within 14 days",
+      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": 2,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D601740%26UserMode%3D0",
+      "course-id": "IHG8611503-OJT"
+    },
+    {
+      "title": "Preventing Human Trafficking",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D867099%26UserMode%3D0",
+      "course-id": "IHG0057043-v2025"
+    },
+    {
+      "title": "IHG Way of Clean - Housekeeper",
+      "timeframe": "within 30 days",
+      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": 3,
+      "isPriority": "Y",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D280596%26UserMode%3D0",
+      "course-id": "IHG7376524"
+    },
+    {
+      "title": "IHG Way of Clean - Non - Housekeeper",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (20 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": 3,
+      "isPriority": "Y",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D310962%26UserMode%3D0",
+      "course-id": "IHG1227263"
+    },
+    {
+      "title": "Welcome to IHG",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D1010602%26UserMode%3D0",
+      "course-id": "IHG2743534"
+    },
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour 45 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051263"
+    },
+    {
+      "title": "Luxury Fundamentals",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (45 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D3590%26UserMode%3D0",
+      "course-id": "IHG0063363"
+    },
+    {
+      "title": "Brand Service Training",
+      "timeframe": "within 30 days",
+      "notes": "Franchised hotels complete the course: Kimpton Brand Orientation. IHG Company Managed hotels complete the course: New Hire Orientation - take the Leading Role, a Kimpton Cultural Cornerstone (NHO).",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "mailto:IHGUniversity@ihg.com",
+      "course-id": "IHGUniversity@ihg.com"
+    },
+    {
+      "title": "IHG Problem Handling",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
+      "timeframeSorting": 3,
+      "isPriority": "Y",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "Loyalty at IHG Luxury & Lifestyle Hotels",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (2 Hours 30 Minutes).",
+      "timeframeSorting": 3,
+      "isPriority": "Y",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D713956%26UserMode%3D0",
+      "course-id": "IHG1344838"
+    },
+    {
+      "title": "Leading and Sustaining your Service Culture",
+      "timeframe": "within 60 days",
+      "notes": "Self-paced Online Learning (1 Hour 45 Minutes).",
+      "timeframeSorting": 4,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D564%26UserMode%3D0",
+      "course-id": "IHG0056403"
+    },
+    {
+      "title": "Engineering Operational Review (EOR) Onboarding Program",
+      "timeframe": "Suggested Learning",
+      "notes": "Review the latest meeting notes to familiarize yourself with the current topics relevant to your role.",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "../../../../../../../facilitieshome-Kimpton/SitePages/Monthly-Meetings.aspx",
+      "course-id": "Click Here for Engineering Department Meeting notes"
+    },
+    {
+      "title": "Kimpton Engineering training via IHG Merlin",
+      "timeframe": "Suggested Learning",
+      "notes": "Review the Safety & Security and Threat Management resources.",
+      "timeframeSorting": 10,
+      "isPriority": "",
+      "link": "https://me2.ihgmerlin.com/web/responsible-business",
+      "course-id": "Click Here for the Responsible Business portal"
+    },
+    {
+      "title": "IHG Way of Clean - Preventative Maintenance Program Leadership",
+      "timeframe": "within 90 days",
+      "notes": "Instructor Led Course (see available dates & times by clicking the link below)",
+      "timeframeSorting": 5,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D5385%26UserMode%3D0",
+      "course-id": "IHG9048004"
+    },
+    {
+      "title": "Active Shooter Training",
+      "timeframe": "Suggested Learning",
+      "notes": "Self-paced Online Learning.",
+      "timeframeSorting": 10,
+      "isPriority": "Y",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D758920%26UserMode%3D0",
+      "course-id": "IHG2004958"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "hi-hiex": {
+    "name": "Holiday Inn - Holiday Inn Express",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "Preventing Human Trafficking",
+      "timeframe": "within 30 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D867099%26UserMode%3D0",
+      "course-id": "IHG0057043-v2025"
+    },
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "within 30 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051263"
+    },
+    {
+      "title": "IHG Problem Handling",
+      "timeframe": "within 30 days",
+      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "Welcome to IHG",
+      "timeframe": "within 30 days",
+      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10770%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dwelcome%25252520to%25252520ihg%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG058044"
+    },
+    {
+      "title": "IHG Way of Clean - Non - Housekeeper",
+      "timeframe": "within 30 days**",
+      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D310962%26UserMode%3D0",
+      "course-id": "IHG1227263"
+    },
+    {
+      "title": "First Aid",
+      "timeframe": "within 30 days",
+      "notes": "At least 1 colleague trained in first aid (including CPR) must be on duty in the hotel at all times.",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D601671%26UserMode%3D0",
+      "course-id": "IHG1885862-OJT"
+    },
+    {
+      "title": "IHG One Rewards - The Value of Loyalty",
+      "timeframe": "Before 3/31/2025",
+      "notes": "GM, Hotel Experience Champion, Front Desk & relevant colleagues from other departments",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2fLMS_ActDetails.aspx%3fActivityId%3d629680%26UserMode%3d0",
+      "course-id": "IHG4232839"
+    },
+    {
+      "title": "IHG One Rewards - Member Recognition",
+      "timeframe": "Before 3/31/2025",
+      "notes": "GM, Hotel Experience Champion, Front Desk & relevant colleagues from other departments",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D776695%26UserMode%3D0",
+      "course-id": "IHG4324484"
+    },
+    {
+      "title": "IHG One Rewards - Leading Loyalty",
+      "timeframe": "Before 3/31/2025",
+      "notes": "GM & Hotel Experience Champion",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D753215%26UserMode%3D0",
+      "course-id": " IHG5719123"
+    },
+    {
+      "title": "IHG One Rewards - Value of Enrollments",
+      "timeframe": "Before 3/31/2025",
+      "notes": "GM, Hotel Experience Champion, Front Desk & relevant colleagues from other departments",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D629669%26UserMode%3D0",
+      "course-id": "IHG8156827"
+    },
+    {
+      "title": "Housekeeping Safety Device Training",
+      "timeframe": "within 14 days",
+      "notes": "Training based on manufacturer recommendation; US & Canada hotels only",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D601740%26UserMode%3D0",
+      "course-id": "IHG8611503-OJT"
+    },
+    {
+      "title": "Health & Safety, Security & Emergency Procedures",
+      "timeframe": "1st day",
+      "notes": "Documented evidence of completed training must be maintained; not IHG specific courses",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D601724%26UserMode%3D0",
+      "course-id": "IHG9191264-OJT"
+    },
+    {
+      "title": "IHG One Rewards - Program Overview",
+      "timeframe": "Before 3/31/2025",
+      "notes": "GM, Hotel Experience Champion, Front Desk & relevant colleagues from other departments",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D629688%26UserMode%3D0",
+      "course-id": "IHG9753968"
+    },
+    {
+      "title": "Holiday Inn Express Brand Service Training",
+      "timeframe": "within 30 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D366737%26UserMode%3D0",
+      "course-id": "IHG4548388"
+    },
+    {
+      "title": "Leading and Sustaining your Service Culture",
+      "timeframe": "within 60 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D564%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dleading%25252520and%25252520sustaining%25252520your%25252520service%25252520culture%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0056403"
+    },
+    {
+      "title": "The Express Start Breakfast Bar Experience - US & Canada",
+      "timeframe": "within 30 days",
+      "notes": "US & Canada hotels only The Express Start Breakfast Bar Experience - US & Canada – Recertification - IHG0060763-v2025",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10712%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dthe%25252520express%25252520start%25252520breakfast%25252520bar%25252520experience%25252520-%25252520us%25252520%25252526%25252520canada%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG052206"
+    },
+    {
+      "title": "Introduction to Information Security",
+      "timeframe": "within 30 days**",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D6447%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dintroduction%25252520to%25252520information%25252520security%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0047625"
+    },
+    {
+      "title": "Handling Card Data Securely with PCI DSS",
+      "timeframe": "within 30 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D612746%26UserMode%3D0",
+      "course-id": "IHG3569155"
+    },
+    {
+      "title": "Hurricane Preparedness Workshop",
+      "timeframe": "within 30 days",
+      "notes": "Applicable States only: AL, CT, DC, DE, FL, GA, HI, LA, MA, MD, ME, MS, NC, NH, NJ, NY, PA, RI, SC, TX, VA (required within 100 miles of the coastline; required for entire state of Florida & Hawaii)",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D53229%26UserMode%3D0",
+      "course-id": "IHG5268648"
+    },
+    {
+      "title": "General Manager Onboarding Learning Plan",
+      "timeframe": "within 6 months",
+      "notes": "Prerequisite: Must attend General Manager Operations Welcome Call",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://ihglive.fuseuniversal.com/",
+      "course-id": "Onboarding Learning Plan"
+    },
+    {
+      "title": "General Manager Operations Welcome Call",
+      "timeframe": "within 6 months",
+      "notes": "Invitation to this call based on myID GM of record",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://me2.ihgmerlin.com/web/applications/article?id=55492023",
+      "course-id": "Overview of the\r\nGM Program"
+    },
+    {
+      "title": "Hotel Experience Champion Training Onboarding",
+      "timeframe": "within 30 days",
+      "notes": "Not a specific course; review the Hotel Experience Champion Program and ensure Hotel Experience Champion role(s) have been assigned",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://me2.ihgmerlin.com/web/applications/article?id=10138887",
+      "course-id": "Overview of the\r\nHEC Program"
+    },
+    {
+      "title": "General Manager Onboarding Learning Event",
+      "timeframe": "within 6 months",
+      "notes": "Prerequisite: Must complete the Onboarding Learning Plan prior to attending",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://ihglive.fuseuniversal.com/communities/12046/contents/1288326",
+      "course-id": "Registration Link"
+    },
+    {
+      "title": "Holiday Inn Brand Service Training",
+      "timeframe": "within 30 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D104579%26UserMode%3D0",
+      "course-id": "IHG3075650"
+    },
+    {
+      "title": "Navigating N2Pricing eLearning",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (120 Minutes)",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D735391%26UserMode%3D0",
+      "course-id": "IHG4937958"
+    }
+  ]
+}

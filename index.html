@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./img/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IHG | NHOP</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+  <script>
+    let lang = JSON.parse(localStorage.getItem('__ingenuiti_ihg-nhop_lang'));
+    //Hardcode if theres no Item on Lang as it is failing if no language is added into the project, setting English as a default language
+    if (localStorage.getItem("__ingenuiti_ihg-nhop_lang") === null) { 
+      localStorage.setItem("__ingenuiti_ihg-nhop_lang", '{"name":"English","code":"en"}');
+    } else {
+      document.body.setAttribute('dir', lang.rtl ? 'rtl' : 'ltr');
+    }
+  </script>
+</html>

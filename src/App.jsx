@@ -23,8 +23,30 @@ function App() {
       setServer(server === 0 ? 1 : 0);
       setScore([score[1], score[0], 1]);
   }
+
+  const updateTeamName = (event, index) => {
+    const updatedValue = event.target.value;
+    setTeamNames((prevValue) => {
+      const newValues = [...prevValue];
+      newValues[index] = updatedValue;
+      return newValues;
+    });
+  };
+
   return (
     <>
+      <div>
+        <input
+          value={teamNames[0]}
+          onChange={(event) => updateTeamName(event, 0)}
+          className={`border p-2 rounded ${server === 0 ? 'bg-accent text-white' : ''}`}
+        />
+        <input
+          value={teamNames[1]}
+          onChange={(event) => updateTeamName(event, 1)}
+          className={`border p-2 rounded ${server === 1 ? 'bg-accent text-white' : ''}`}
+        />
+      </div>
       {
         server === null &&
         <div id="chooseServer">
